@@ -12,5 +12,5 @@ class App < Sinatra::Base
     erb :create_puppy
   end
 
-  
+
 end
